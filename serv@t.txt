@@ -1,0 +1,25 @@
+                                                                                                                SERV@T
+
+#Our main theme is service and transportation
+#Our motto is :"Delight To Serve You"
+#The requirements we need are listed below
+  $ A centeralized server
+  $More Man Power
+  $ A Database Management System
+  $ User Interface
+  $High speed Internet
+  $Cloud based Payment Options
+  $Inventory system Real tiome booking User friendly interface Customer Support
+  $Transport facilities
+      *Car
+      *Bike
+      *Aeroplane
+      *Train
+      *Bus
+      *Auto
+      *JCB
+      *Truck
+ $ Water
+ $ Permission
+    
+     
